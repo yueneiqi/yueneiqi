@@ -1,4 +1,4 @@
 # 你好，世界 👋
 
-📙 Focusing on C++
-🍖 Meat lover
+- 📙 Focusing on C++
+- 🍖 Meat lover
